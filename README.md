@@ -1,1 +1,1 @@
-# SkyNet-Design-Solutions
+# SkyNet Design Solutions
